@@ -11,8 +11,7 @@
   <img align="center" alt="eliveltonmoura-C++" height="30"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" >  <img align="center" alt="eliveltonmoura-C" height="30"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" >
   <img align="center" alt="eliveltonmoura-java" height="30"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="eliveltonmoura-Node" height="40"width="50" src="https://www.svgrepo.com/show/376337/node-js.svg">
-   <img align="center" alt="eliveltonmoura-vue" height="30"width="40" src="https://www.svgrepo.com/show/354528/vue.svg
-">
+   <img align="center" alt="eliveltonmoura-vue" height="30"width="40" src="https://www.svgrepo.com/show/354528/vue.svg">
     
 </div> 
   
