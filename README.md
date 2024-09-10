@@ -10,7 +10,8 @@
   <img align="center" alt="eliveltonmoura-CSS" height="30"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="eliveltonmoura-C++" height="30"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" >  <img align="center" alt="eliveltonmoura-C" height="30"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" >
   <img align="center" alt="eliveltonmoura-java" height="30"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="eliveltonmoura-Node" height="30"width="40" src="https://img.icons8.com/?size=512&id=54087&format=png">
+  <img align="center" alt="eliveltonmoura-Node" height="30"width="40" src="![image](https://github.com/user-attachments/assets/152f35ae-9b9b-4a8d-9506-8bd48edba33b)
+">
     
 </div> 
   
