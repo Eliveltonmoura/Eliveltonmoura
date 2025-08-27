@@ -7,13 +7,7 @@
 </div> -->
   <div style="display: inline_block"><br>
   <img align="center" alt="eliveltonmoura-HTML" height="30"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" 
-     alt="eliveltonmoura-Cypress" 
-     height="30" 
-     width="40" 
-     src="https://www.svgrepo.com/show/353630/cypress.svg">
-
-    
+  <img align="center"  alt="eliveltonmoura-Cypress"  height="30"  width="40"  src="https://www.svgrepo.com/show/353630/cypress.svg">
   <img align="center" alt="eliveltonmoura-CSS" height="30"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" alt="eliveltonmoura-js" height="30"width="40" src="https://www.svgrepo.com/show/373703/js.svg">
   <img align="center" alt="eliveltonmoura-C++" height="30"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" >  <img align="center" alt="eliveltonmoura-C" height="30"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" >
