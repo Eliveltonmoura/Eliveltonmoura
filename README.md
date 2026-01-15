@@ -1,10 +1,5 @@
 # Olá, eu sou o Elivelton Moura! 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eliveltonmoura&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="170em" alt="Estatísticas do Github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliveltonmoura&layout=compact&langs_count=7&theme=dark" height="170em" alt="Linguagens mais usadas" />
-</div>
-
 ---
 
 ### 🚀 Sobre mim
