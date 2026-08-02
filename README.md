@@ -3,7 +3,7 @@
 ---
 
 ### 🚀 Sobre mim
-Desenvolvedor focado em soluções Fullstack e apaixonado por automação de testes. Atualmente explorando novas arquiteturas e compartilhando conhecimento com a comunidade dev.
+Sou estudante de Engenharia da Computação na Universidade Federal do Ceará (UFC), atualmente no 3º semestre, e atuo como AWS Student Builder Leader no campus de Quixadá. Trabalho na fronteira entre software e hardware: desenvolvo sistemas embarcados em C e Assembly (ARM), circuitos digitais sequenciais, aplicações web full stack (NestJS, React, TypeScript) e apps mobile (Kotlin/Jetpack Compose). Sou bolsista no projeto SmartBee Board, um sistema de monitoramento IoT para colmeias, onde já resolvi problemas de comunicação LoRa, arquitetura de energia e integração hardware-software. Gosto de projetos que saem do papel: já levei sistemas do requisito ao deploy em produção, depurei bugs complexos de baixo nível (interrupções, GPIO, timers) e documentei arquiteturas para times reais. Também tenho experiência com comunidade tech, tendo ensinado computação a trabalhadores da limpeza urbana através do programa Bolsa do Inove. Busco desafios que unam engenharia sólida com impacto real — seja num microcontrolador, numa API ou numa interface de usuário.
 
 ---
 
